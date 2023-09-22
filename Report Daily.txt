@@ -1,0 +1,65 @@
+Daily Report 21/09:
+  - Confirm testing feature image cropping (due date 21/09, Done).
+  - Confirm testing new UI for the archive box in the "Video Success" (due date 21/09, Done).
+  - Confirm testing fix the hashtag search function in posts using the keyword history (due date 21/09, Done).
+  - Confirm testing change title 새로운 소원 (success screen 2)-> 소원달성 (due date 21/09, Done).
+  - Confirm testing fix pop-up alert for empty "Profile Name" (due date 21/09, Done).
+  - Confirm testing fix the introduction for "Ranking weekly" (due date 21/09, Done).
+Google Drive folder: https://drive.google.com/drive/u/0/folders/1Pjop8MepN5dDLQIyWIN7NvK6fLkGXOBp
+
+
+
+
+
+
+- Video xem sau thường
+bo goc 12px
+thời gian hôm nay, ngày mai, năm tháng ngày
+thời gian up video
+text lượt view
+UI phần icon xóa video
+message xóa video xem sau
+xóa title option video xem sau
+text xóa video xem sau
+xóa dấu x pop-up option
+thời gian update folder xem sau
+No data message
+- Video xem sau fold
+Ui folder xem sau
+UI phần icon xóa video
+Padding message xóa video xem sau
+No data message
+
+- Video like
+Xóa video like trong folder like thì sẽ xóa like trong 
+xóa title option video like
+xóa dấu x pop-up option
+Padding message xóa video like
+No data message
+
+- Pop-up lưu video vào folder
+Title tạo folder
+Số video trong từng folder
+Line cuối của folder video
+pop-up lưu trùng
+
+
+- Archive folder
+Thiếu nút thêm folder
+Update lần cuối
+bỏ sort folder
+Chưa tác vụ lướt qua (move, delete)
+message confirm xóa folder
+
+- Archive detail
+bỏ sort video
+bỏ option edit title
+tên channel
+thiếu| 
+thời gian update video
+chưa có tác vụ lướt qua (move, delete).
+Đổi vị trí xóa và chia sẽ (pop-up option video).
+Sai text xóa, chia sẽ
+Sai text lưu video sang folder khác.
+Icon chia sẽ
+màn hình new folder (thống nhât màn hình thêm)
